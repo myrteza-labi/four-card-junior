@@ -1,0 +1,10 @@
+.Card{
+    display: flex; 
+    flex-direction: column; 
+    padding: 30px; 
+    background-color: #FFF; 
+}
+.Card:not(:first-of-type){
+    margin: 25px 0 0 0 ; 
+}
+

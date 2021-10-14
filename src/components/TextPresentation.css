@@ -1,0 +1,9 @@
+.TextPresentation{
+    display: flex; 
+    flex-direction: column; 
+    margin: 85px 0 0 0;     
+}
+
+.textPresentationParagraph{
+    margin: 16px 0 0 0; 
+}

@@ -1,0 +1,10 @@
+.CardApp{
+    width: 375px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: #F2F2F2; 
+    padding: 0 32px; 
+}
+
