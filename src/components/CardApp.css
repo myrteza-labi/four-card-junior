@@ -8,3 +8,9 @@
     padding: 0 32px; 
 }
 
+/* desktop style */
+@media screen and (min-width: 1440px){
+    .CardApp{
+        width: 1440px; 
+    }
+}

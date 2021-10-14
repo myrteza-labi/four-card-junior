@@ -8,3 +8,18 @@
     flex-direction: column; 
     margin: 25px 0 0 0 ; 
 }
+
+/* desktop style */
+@media screen and (min-width: 1440px){
+    .CardContainer{
+        width: 1110px; 
+        height: 530px; 
+        flex-direction: row; 
+        justify-content: space-between; 
+        align-items: center; 
+        margin: 64px 0 80px 0; 
+    }
+    .twoCardContainer{
+       flex-direction: column; 
+    }
+}

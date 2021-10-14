@@ -8,3 +8,19 @@
     margin: 25px 0 0 0 ; 
 }
 
+
+
+/* desktop style */
+@media screen and (min-width: 1440px){
+    .Card{
+        width: 350px; 
+        height: 250px; 
+        padding: 32px; 
+    }
+    .cardTitle{
+        margin: 0 0 6px 0; 
+    }
+    .cardTextContainer{
+        margin: 0 0 40px 0; 
+    }
+}

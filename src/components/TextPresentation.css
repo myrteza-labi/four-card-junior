@@ -3,7 +3,17 @@
     flex-direction: column; 
     margin: 85px 0 0 0;     
 }
-
+.textPresentationTitle, .textPresentationParagraph{
+    text-align: center; 
+}
 .textPresentationParagraph{
     margin: 16px 0 0 0; 
+}
+
+/* desktop style */
+@media screen and (min-width: 1440px){
+    .TextPresentation{
+        width: 540px; 
+        margin: 80px 0 0 0;     
+    }
 }
