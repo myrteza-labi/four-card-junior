@@ -31,4 +31,7 @@
         width: 540px; 
         margin: 80px 0 0 0;     
     }
+    .textPresentationTitle {
+        font-size: 36px;
+    }
 }
