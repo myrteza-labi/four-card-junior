@@ -10,3 +10,15 @@
     width: 57px; 
     height: 57px; 
 }
+
+/* desktop style */
+@media screen and (min-width: 1440px){
+    .Picture{
+        height: 62px; 
+        margin: 40px 0 32px 0; 
+    }
+    .pictureimg{
+        width: 62px; 
+        height: 62px; 
+    }
+  }
