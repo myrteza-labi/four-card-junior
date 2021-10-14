@@ -5,7 +5,7 @@ function TextPresentation(props){
         <div className="TextPresentation" >
 
             <h3 className="textPresentationTitle" >
-                Reliable, efficient delivery
+                Reliable, efficient delivery <br/>
                 <span className="textPresentationTitleBold">
                     Powered by Technology
                 </span>

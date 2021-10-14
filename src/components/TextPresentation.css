@@ -2,12 +2,27 @@
     display: flex; 
     flex-direction: column; 
     margin: 85px 0 0 0;     
+
 }
 .textPresentationTitle, .textPresentationParagraph{
     text-align: center; 
+    color: #4D4F62; 
+}
+.textPresentationTitle {
+    font-size: 24px; 
+    font-weight: 100; 
+    letter-spacing: 0.17px; 
+}
+.textPresentationTitleBold{
+    font-weight: 600; 
 }
 .textPresentationParagraph{
+    font-size: 15px; 
+    font-weight: 400; 
+    line-height: 25px;
+    letter-spacing: 0.1px; 
     margin: 16px 0 0 0; 
+    opacity: 0.5; 
 }
 
 /* desktop style */

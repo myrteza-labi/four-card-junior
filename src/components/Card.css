@@ -3,6 +3,39 @@
     flex-direction: column; 
     padding: 30px; 
     background-color: #FFF; 
+    border-radius: 8px; 
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5)
+}
+.cardTitle{
+    font-size: 20px; 
+    font-weight: 600; 
+    line-height: 20px; 
+    color: #4D4F62; 
+}
+.cardParagraph{
+    font-size: 13px; 
+    font-weight: 400; 
+    line-height: 22px; 
+    letter-spacing: 0.1px;
+    margin: 6px 0 0 0; 
+    color: #4D4F62; 
+    opacity: 0.5; 
+}
+.green {
+    border-top: 4px solid #44D3D2; 
+
+}
+.red {
+    border-top: 4px solid #EA5454; 
+
+}
+.orange {
+    border-top: 4px solid #FDBF00; 
+
+}
+.blue {
+    border-top: 4px solid #377FD2; 
+
 }
 .Card:not(:first-of-type){
     margin: 25px 0 0 0 ; 

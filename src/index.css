@@ -5,8 +5,8 @@
 }
 
 body {
-  height: 100vh; 
   font-family: 'Poppins', sans-serif;
+  background-color: #F2F2F2; 
 }
 
 #root {
